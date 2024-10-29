@@ -9,12 +9,12 @@
     "indentWidth": 8
   },
   "imports": {
-    "vite": "npm:vite@^5.4.10",
-    "svelte": "npm:svelte@^5.1.4",
-    "tailwindcss": "npm:tailwindcss@^4.0.0-alpha.30",
-    "@sveltejs/kit": "npm:@sveltejs/kit@^2.7.3",
+    "vite": "npm:vite@^5.4.11",
+    "svelte": "npm:svelte@^5.2.8",
+    "tailwindcss": "npm:tailwindcss@^4.0.0-beta.2",
+    "@sveltejs/kit": "npm:@sveltejs/kit@^2.8.4",
     "@sveltejs/vite-plugin-svelte": "npm:@sveltejs/vite-plugin-svelte@^4.0.0",
-    "@tailwindcss/vite": "npm:@tailwindcss/vite@^4.0.0-alpha.30"
+    "@tailwindcss/vite": "npm:@tailwindcss/vite@^4.0.0-beta.2"
   },
   "nodeModulesDir": "auto"
 }
